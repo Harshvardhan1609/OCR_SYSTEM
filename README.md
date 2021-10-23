@@ -1,6 +1,6 @@
 # OCR PROJECT ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-### NOTES LINK : CLICK_HERE(https://drive.google.com/file/d/1vGqFZzCO2330xXFtFHXBHQtQ6xHq-Bul/view?usp=sharing)
+### NOTES LINK : [CLICK_HERE](https://drive.google.com/file/d/1vGqFZzCO2330xXFtFHXBHQtQ6xHq-Bul/view?usp=sharing)
 
 # WHAT DO YOU MEAN BY OCR ?
 
