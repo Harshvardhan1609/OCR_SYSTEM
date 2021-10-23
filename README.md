@@ -1,4 +1,4 @@
-# OCR PROJECT
+# OCR PROJECT ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # WHAT DO YOU MEAN BY OCR ?
 
